@@ -67,7 +67,7 @@ In the regression example, we use the **Diamond Dataset** to predict the price o
 ## Contact
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/notifications/?filter=all)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-alkhatim-9b1770266/)
 
 ---
 
